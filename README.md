@@ -2,10 +2,11 @@
 
 
 
- ## Installation from scratch depuis les sources
+ ## Installation from scratch depuis les sources [doc pdf](https://github.com/thierry-rami/Asterisk_config/blob/main/Voip.pdf)
+
 - récuperation des sources
 - compilation et installation
-- création de 3 utilisateur avec gestion de la messagerie vocale
+- création de 3 utilisateurs avec gestion de la messagerie vocale
 
 
 ## Ldap ( W.I.P )
